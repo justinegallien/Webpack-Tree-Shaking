@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    background-color: #f3ddf0;;
+    font-family: 'Times New Roman', Times, serif;
+    color: #aef3d1;
+}
+.card{
+    border: 1px solid #770067;
+    border-radius: 5px;
+    margin: 1rem;
+}
+
+.card h2{
+    margin: 0.25rem;
+    color: rgb(0, 100, 100);
+}
