@@ -1,7 +1,7 @@
 "use strict";
 
 import "./styles.css";
-import { fetchUsers } from "../services/api.js";
+import { fetchUsers } from "./services/api.js";
 import { Footer } from "./components/footer.js";
 import { Header } from "./components/header.js";
 import { UserCard } from "./components/usercard.js";
